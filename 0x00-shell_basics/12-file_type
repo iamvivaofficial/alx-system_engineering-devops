@@ -1,3 +1,0 @@
-#!/bin/bash
-file /tmp/iamafile >> 12-file_name
-echo file /tmp/iamafile

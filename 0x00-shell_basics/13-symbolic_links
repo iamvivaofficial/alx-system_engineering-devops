@@ -1,3 +1,0 @@
-#!/bin/bash
-ln -s /bin/ls_ls_ >> 13-symbolic_links
-echo ln -s /bin/ls_ls_
