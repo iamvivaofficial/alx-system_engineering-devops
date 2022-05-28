@@ -1,0 +1,5 @@
+#!/bin/bash
+mv a-z tmp/u >> 100-lets_move
+echo  mv a-z tmp/u >> 100-lets_move
+echo  mv a-z tmp/u
+mv a-z tmp/u
